@@ -6,14 +6,16 @@ function AboutCard() {
   return (
     <Card className="quote-card-view">
       <Card.Body>
+
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             I am <span className="purple">Daphne Ruth</span>
             <span className="purple">.</span>
             <br />
             <br />
-            <br />
+            
             </p>
+            
             {/*
             Apart from coding, some other activities that I love to do!
           </p>

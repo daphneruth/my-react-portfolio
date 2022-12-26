@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
-import Tilt from "react-parallax-tilt";
+//import myImg from "../../Assets/avatar.svg";
+//import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
   AiOutlineTwitter,
@@ -21,7 +21,7 @@ function Home2() {
             <p className="home-about-body">
               I am highly competent full stack developer.
               <br />
-              <br />I am fluent in:
+              <br />I am fluent in
               <i>
                 <b className="purple"> Javascript ,ReactJs and NodeJs. </b>
               </i>
