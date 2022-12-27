@@ -23,10 +23,6 @@ function ResumeNew() {
       <Container fluid className="resume-section">
        <Particle />
       {/* <Row style={{ justifyContent: "center", position: "relative" }}>
-          <Button
-            variant="primary"
-            href={doc}
-            target="_blank"
             style={{ maxWidth: "250px" }}
           >
             <AiOutlineDownload />
