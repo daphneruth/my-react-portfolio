@@ -11,6 +11,13 @@ function Footer() {
   let date = new Date();
   let year = date.getFullYear();
   return (
+
+
+
+  
+    <div className="fixed-bottom">
+  
+
     <Container fluid  className="footer">
       <Row>
        
@@ -51,6 +58,7 @@ function Footer() {
         </Col>
       </Row>
     </Container>
+    </div>
   );
 }
 
