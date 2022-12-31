@@ -21,7 +21,7 @@ function Projects() {
         <p style={{ color: "white" }}>
           check on projects I've worked on recently.
         </p>
-        {/*}
+        
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
@@ -33,7 +33,7 @@ function Projects() {
               demoLink="https://chatify-49.web.app/"
             />
           </Col>
-
+  {/*
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={bitsOfCode}
