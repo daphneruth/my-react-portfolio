@@ -88,9 +88,9 @@ function Projects() {
               ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
-          </Col>
+  </Col>*/}
   
-  </Row>*/}
+  </Row>
       </Container>
     </Container>
   );
