@@ -8,9 +8,8 @@ function Type() {
         strings: [
           
           
-          "MERN",
-          "Stack",
-          " Developer",
+          " Ful-Stack Web Developer",
+          "Artificial Intelligence developer",
           
         ],
         autoStart: true,
