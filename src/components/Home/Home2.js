@@ -21,9 +21,9 @@ function Home2() {
             <p className="home-about-body">
               I am highly competent full stack developer.
               <br />
-              <br />I am fluent in
+              <br />Ask me about
               <i>
-                <b className="purple"> Javascript ,ReactJs and NodeJs. </b>
+                <b className="purple"> React.Js and Node.Js </b>
               </i>
               <br />
               <br />
