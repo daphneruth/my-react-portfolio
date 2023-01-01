@@ -8,7 +8,7 @@ function Type() {
         strings: [
           
           
-          " Ful-Stack Web Developer",
+          " Full-Stack Web Developer",
           "Artificial Intelligence developer",
           
         ],
