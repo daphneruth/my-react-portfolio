@@ -15,15 +15,17 @@ function Home2() {
       <Container>
         <Row>
           <Col md={8} className="home-about-description">
-            <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
-            </h1>
+           {/* <h1 style={{ fontSize: "2.6em" }}>
+               <span className="purple"> INTRODUCE </span> MYSELF
+  </h1>*/}
             <p className="home-about-body">
               I am highly competent full stack developer.
               <br />
               <br />Ask me about
               <i>
-                <b className="purple"> React.Js and Node.Js </b>
+                <b className="purple"> React.Js,
+                Express.js,
+                Next.Js and Node.Js </b>
               </i>
               <br />
               <br />
@@ -49,7 +51,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> React.js,Express.j and Next.js</b>
               </i>
             </p>
           </Col>

@@ -8,8 +8,8 @@ function Type() {
         strings: [
           
           
-          " Full-Stack Web Developer",
-          "Artificial Intelligence developer",
+          " MERN Stack Developer",
+          "Java developer",
           
         ],
         autoStart: true,
